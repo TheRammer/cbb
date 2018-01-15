@@ -1,0 +1,737 @@
+{
+    "Arizona State University": {
+        "bgcolor": "#8A1F41",
+        "fontcolor": "#FDCC3C",
+        "name": "Arizona State"
+    },
+    "Auburn University": {
+        "bgcolor": "#0C2340",
+        "fontcolor": "#E87722",
+        "name": "Auburn"
+    },
+    "Austin Peay State University": {
+        "bgcolor": "#FFFFFF",
+        "fontcolor": "#000000",
+        "name": "Austin Peay St"
+    },
+    "Baylor University": {
+        "bgcolor": "#023016",
+        "fontcolor": "#F5BB34",
+        "name": "Baylor"
+    },
+    "Belmont University": {
+        "bgcolor": "#FFFFFF",
+        "fontcolor": "#000000",
+        "name": "Belmont"
+    },
+    "Boise State University": {
+        "bgcolor": "#0033A0",
+        "fontcolor": "#D64309",
+        "name": "Boise State"
+    },
+    "Brigham Young University": {
+        "bgcolor": "#002255",
+        "fontcolor": "#c5af7d",
+        "name": "BYU"
+    },
+    "Butler University": {
+        "bgcolor": "#13294B",
+        "fontcolor": "#D1E0D7",
+        "name": "Butler"
+    },
+    "Clemson University": {
+        "bgcolor": "#F66733",
+        "fontcolor": "#522D80",
+        "name": "Clemson"
+    },
+    "College of William and Mary": {
+        "bgcolor": "#FFFFFF",
+        "fontcolor": "#000000",
+        "name": "William and Mary"
+    },
+    "Colorado State University": {
+        "bgcolor": "#1E4D2B",
+        "fontcolor": "#C8C372",
+        "name": "Colorado St"
+    },
+    "Columbia University": {
+        "bgcolor": "#FFFFFF",
+        "fontcolor": "#000000",
+        "name": "Columbia"
+    },
+    "Creighton University": {
+        "bgcolor": "#0B86A4",
+        "fontcolor": "#90CCF0",
+        "name": "Creighton"
+    },
+    "Davidson College": {
+        "bgcolor": "#ac1a2f",
+        "fontcolor": "#FFFFFF",
+        "name": "Davidson College"
+    },
+    "Duke University": {
+        "bgcolor": "#001A57",
+        "fontcolor": "#FFFFFF",
+        "name": "Duke"
+    },
+    "Eastern Kentucky University": {
+        "bgcolor": "#FFFFFF",
+        "fontcolor": "#000000",
+        "name": "Eastern Kentucky"
+    },
+    "Florida Gulf Coast University": {
+        "bgcolor": "#FFFFFF",
+        "fontcolor": "#000000",
+        "name": "FCGU"
+    },
+    "Florida State University": {
+        "bgcolor": "#782F40",
+        "fontcolor": "#CEB888",
+        "name": "Florida State"
+    },
+    "George Washington University": {
+        "bgcolor": "#004065",
+        "fontcolor": "#c8b18b",
+        "name": "George Washington"
+    },
+    "Georgetown University": {
+        "bgcolor": "#011e41",
+        "fontcolor": "#867875",
+        "name": "Georgetown"
+    },
+    "Gonzaga University": {
+        "bgcolor": "#08284E",
+        "fontcolor": "#A5ADAB",
+        "name": "Gonzaga"
+    },
+    "Grand Canyon University": {
+        "bgcolor": "#522398",
+        "fontcolor": "#f6a800",
+        "name": "Grand Canyon"
+    },
+    "Harvard University": {
+        "bgcolor": "#A41034",
+        "fontcolor": "#FFFFFF",
+        "name": "Harvard"
+    },
+    "High Point University": {
+        "bgcolor": "#FFFFFF",
+        "fontcolor": "#000000",
+        "name": "High Point"
+    },
+    "Hofstra University": {
+        "bgcolor": "#FFFFFF",
+        "fontcolor": "#000000",
+        "name": "Hofstra"
+    },
+    "Illinois State University": {
+        "bgcolor": "#FFFFFF",
+        "fontcolor": "#000000",
+        "name": "Illinois St"
+    },
+    "Indiana State University": {
+        "bgcolor": "#0047b6",
+        "fontcolor": "#FFFFFF",
+        "name": "Indiana State"
+    },
+    "Indiana University Bloomington": {
+        "bgcolor": "#990000",
+        "fontcolor": "#EEEDEB",
+        "name": "Indiana"
+    },
+    "Iowa State University": {
+        "bgcolor": "#C8102E",
+        "fontcolor": "#F1BE48",
+        "name": "Iowa State"
+    },
+    "Jacksonville State University": {
+        "bgcolor": "#FFFFFF",
+        "fontcolor": "#000000",
+        "name": "Jacksonville St"
+    },
+    "Kansas State University": {
+        "bgcolor": "#512888",
+        "fontcolor": "#FFFFFF",
+        "name": "Kansas State"
+    },
+    "Louisiana State University": {
+        "bgcolor": "#461D7C",
+        "fontcolor": "#FDD023",
+        "name": "LSU"
+    },
+    "Louisiana Tech University": {
+        "bgcolor": "#FFFFFF",
+        "fontcolor": "#000000",
+        "name": "Louisiana Tech"
+    },
+    "Loyola University Chicago": {
+        "bgcolor": "#A30042",
+        "fontcolor": "#eeb111",
+        "name": "Loyola U. Chicago"
+    },
+    "Marquette University": {
+        "bgcolor": "#FFFFFF",
+        "fontcolor": "#000000",
+        "name": "Marquette"
+    },
+    "Michigan State University": {
+        "bgcolor": "#18453B",
+        "fontcolor": "#FFFFFF",
+        "name": "Michigan St"
+    },
+    "Middle Tennessee State University": {
+        "bgcolor": "#0066cc",
+        "fontcolor": "#333333",
+        "name": "Middle Tenn. St"
+    },
+    "Mississippi State University": {
+        "bgcolor": "#660000",
+        "fontcolor": "#CCCCCC",
+        "name": "Mississippi State"
+    },
+    "Monmouth University": {
+        "bgcolor": "#FFFFFF",
+        "fontcolor": "#000000",
+        "name": "Monmouth"
+    },
+    "Murray State University": {
+        "bgcolor": "#002144",
+        "fontcolor": "#ECAC00",
+        "name": "Murray State"
+    },
+    "New Mexico State University": {
+        "bgcolor": "#8c0b2",
+        "fontcolor": "#cfc7bd",
+        "name": "New Mexico St"
+    },
+    "North Carolina State University": {
+        "bgcolor": "#CC0000",
+        "fontcolor": "#FFFFFF",
+        "name": "North Carolina St"
+    },
+    "Northwestern State University": {
+        "bgcolor": "#663399",
+        "fontcolor": "#ff6600",
+        "name": "Northwestern St"
+    },
+    "Northwestern University": {
+        "bgcolor": "#4E2A84",
+        "fontcolor": "#FFFFFF",
+        "name": "Northwestern"
+    },
+    "Oakland University": {
+        "bgcolor": "#000000",
+        "fontcolor": "#b59a57",
+        "name": "Oakland"
+    },
+    "Ohio State University": {
+        "bgcolor": "#bb0000",
+        "fontcolor": "#FFFFFF",
+        "name": "Ohio State"
+    },
+    "Ohio University": {
+        "bgcolor": "#00694E",
+        "fontcolor": "#E4BB85",
+        "name": "Ohio"
+    },
+    "Oklahoma State University": {
+        "bgcolor": "#FF7300",
+        "fontcolor": "#FFFFFF",
+        "name": "Oklahoma State"
+    },
+    "Old Dominion University": {
+        "bgcolor": "#FFFFFF",
+        "fontcolor": "#000000",
+        "name": "Old Dominion"
+    },
+    "Oregon State University": {
+        "bgcolor": "#DC4405",
+        "fontcolor": "#000000",
+        "name": "Oregon State"
+    },
+    "Pennsylvania State University": {
+        "bgcolor": "#093162",
+        "fontcolor": "#FFFFFF",
+        "name": "Penn State"
+    },
+    "Princeton University": {
+        "bgcolor": "#EE7F2D",
+        "fontcolor": "#000000",
+        "name": "Princeton"
+    },
+    "Providence College": {
+        "bgcolor": "#000000",
+        "fontcolor": "#FFFFFF",
+        "name": "Providence"
+    },
+    "Purdue University": {
+        "bgcolor": "#000000",
+        "fontcolor": "#B4801F",
+        "name": "Purdue"
+    },
+    "Saint Joseph's University": {
+        "bgcolor": "#FFFFFF",
+        "fontcolor": "#000000",
+        "name": "Saint Joseph's"
+    },
+    "Saint Mary's College of California": {
+        "bgcolor": "#d80024",
+        "fontcolor": "#06315b",
+        "name": "Saint Mary's C."
+    },
+    "San Diego State University": {
+        "bgcolor": "#C41230",
+        "fontcolor": "#D2C694",
+        "name": "San Diego State"
+    },
+    "Seton Hall University": {
+        "bgcolor": "#074686",
+        "fontcolor": "#FFFFFF",
+        "name": "Seton Hall"
+    },
+    "South Dakota State University": {
+        "bgcolor": "#FFFFFF",
+        "fontcolor": "#000000",
+        "name": "South Dakota St"
+    },
+    "Southern Methodist University": {
+        "bgcolor": "#0039A6",
+        "fontcolor": "#c60c30",
+        "name": "SMU"
+    },
+    "St. Bonaventure University": {
+        "bgcolor": "#996633",
+        "fontcolor": "#FFFFFF",
+        "name": "St. Bonaventure"
+    },
+    "St. John's University": {
+        "bgcolor": "#CF102D",
+        "fontcolor": "#898B8E",
+        "name": "St. John's"
+    },
+    "Stanford University": {
+        "bgcolor": "#8c1515",
+        "fontcolor": "#ffffff",
+        "name": "Stanford"
+    },
+    "Stephen F. Austin State University": {
+        "bgcolor": "#330066",
+        "fontcolor": "#FFFFFF",
+        "name": "Stephen F. Austin St"
+    },
+    "Stony Brook University": {
+        "bgcolor": "#FFFFFF",
+        "fontcolor": "#000000",
+        "name": "Stony Brook"
+    },
+    "Syracuse University": {
+        "bgcolor": "#D44500",
+        "fontcolor": "#3E3D3C",
+        "name": "Syracuse"
+    },
+    "Temple University": {
+        "bgcolor": "#9E1B34",
+        "fontcolor": "#ffffff",
+        "name": "Temple"
+    },
+    "Tennessee State University": {
+        "bgcolor": "#FFFFFF",
+        "fontcolor": "#000000",
+        "name": "Tennessee St"
+    },
+    "Texas A&M University": {
+        "bgcolor": "#4F0103",
+        "fontcolor": "#FFFFFF",
+        "name": "Texas A&M"
+    },
+    "Texas A&M University-Corpus Christi": {
+        "bgcolor": "#FFFFFF",
+        "fontcolor": "#000000",
+        "name": "TAMU Corpus Christi"
+    },
+    "Texas Christian University": {
+        "bgcolor": "#4C1E77",
+        "fontcolor": "#FFFFFF",
+        "name": "TCU"
+    },
+    "Texas Southern University": {
+        "bgcolor": "#FFFFFF",
+        "fontcolor": "#000000",
+        "name": "Texas Southern"
+    },
+    "Texas Tech University": {
+        "bgcolor": "#CA0813",
+        "fontcolor": "#000000",
+        "name": "Texas Tech"
+    },
+    "Towson University": {
+        "bgcolor": "#ffcc00",
+        "fontcolor": "#000000",
+        "name": "Towson"
+    },
+    "University at Albany, SUNY": {
+        "bgcolor": "#46166b",
+        "fontcolor": "#eeb211",
+        "name": "Albany"
+    },
+    "University of Akron": {
+        "bgcolor": "#FFFFFF",
+        "fontcolor": "#000000",
+        "name": "Akron"
+    },
+    "University of Alabama": {
+        "bgcolor": "#97040C",
+        "fontcolor": "#FFFFFF",
+        "name": "Alabama"
+    },
+    "University of Alabama at Birmingham": {
+        "bgcolor": "#FFFFFF",
+        "fontcolor": "#000000",
+        "name": "Alabama Birmingham"
+    },
+    "University of Arizona": {
+        "bgcolor": "#CA0A37",
+        "fontcolor": "#123566",
+        "name": "Arizona"
+    },
+    "University of Arkansas": {
+        "bgcolor": "#9D2235",
+        "fontcolor": "#FFFFFF",
+        "name": "Arkansas"
+    },
+    "University of Arkansas at Little Rock": {
+        "bgcolor": "#FFFFFF",
+        "fontcolor": "#000000",
+        "name": "Arkansas Little Rock"
+    },
+    "University of California, Berkeley": {
+        "bgcolor": "#003262",
+        "fontcolor": "#FDB515",
+        "name": "Berkeley"
+    },
+    "University of California, Irvine": {
+        "bgcolor": "#FFFFFF",
+        "fontcolor": "#000000",
+        "name": "UC Irvine"
+    },
+    "University of California, Los Angeles": {
+        "bgcolor": "#3785BD",
+        "fontcolor": "#FEE267",
+        "name": "UCLA"
+    },
+    "University of Central Florida": {
+        "bgcolor": "#000000",
+        "fontcolor": "#FFC904",
+        "name": "Central Florida"
+    },
+    "University of Cincinnati": {
+        "bgcolor": "#000000",
+        "fontcolor": "#E50C2A",
+        "name": "Cincinnati"
+    },
+    "University of Colorado": {
+        "bgcolor": "#CFB87C",
+        "fontcolor": "#000000",
+        "name": "Colorado"
+    },
+    "University of Connecticut": {
+        "bgcolor": "#000E2F",
+        "fontcolor": "#7C878E",
+        "name": "Connecticut"
+    },
+    "University of Dayton": {
+        "bgcolor": "#CE1141",
+        "fontcolor": "#004B8D",
+        "name": "Dayton"
+    },
+    "University of Evansville": {
+        "bgcolor": "#FFFFFF",
+        "fontcolor": "#000000",
+        "name": "Evansville"
+    },
+    "University of Florida": {
+        "bgcolor": "#F74827",
+        "fontcolor": "#1C28A3",
+        "name": "Florida"
+    },
+    "University of Georgia": {
+        "bgcolor": "#BA0C2F",
+        "fontcolor": "#FFFFFF",
+        "name": "Georgia"
+    },
+    "University of Hawaii at Manoa": {
+        "bgcolor": "#FFFFFF",
+        "fontcolor": "#000000",
+        "name": "Hawaii at Manoa"
+    },
+    "University of Houston": {
+        "bgcolor": "#C8102E",
+        "fontcolor": "#888B8D",
+        "name": "Houston"
+    },
+    "University of Illinois at Urbana-Champaign": {
+        "bgcolor": "#FFFFFF",
+        "fontcolor": "#000000",
+        "name": "Ill. Urbana-Champaign"
+    },
+    "University of Iowa": {
+        "bgcolor": "#FFCD00",
+        "fontcolor": "#000000",
+        "name": "Iowa"
+    },
+    "University of Kansas": {
+        "bgcolor": "#0B53B7",
+        "fontcolor": "#DA1527",
+        "name": "Kansas"
+    },
+    "University of Kentucky": {
+        "bgcolor": "#06379D",
+        "fontcolor": "#FFFFFF",
+        "name": "Kentucky"
+    },
+    "University of Louisville": {
+        "bgcolor": "#AB0F06",
+        "fontcolor": "#CCCBB0",
+        "name": "Louisville"
+    },
+    "University of Maryland, College Park": {
+        "bgcolor": "#E03A3E",
+        "fontcolor": "#FFD520",
+        "name": "Maryland"
+    },
+    "University of Miami (Florida)": {
+        "bgcolor": "#386644",
+        "fontcolor": "#CF7132",
+        "name": "Miami (FL)"
+    },
+    "University of Michigan": {
+        "bgcolor": "#00274C",
+        "fontcolor": "#FFCB05",
+        "name": "Michigan"
+    },
+    "University of Minnesota": {
+        "bgcolor": "#79031C",
+        "fontcolor": "#FFC944",
+        "name": "Minnesota"
+    },
+    "University of Mississippi": {
+        "bgcolor": "#FFFFFF",
+        "fontcolor": "#000000",
+        "name": "Mississippi"
+    },
+    "University of Missouri": {
+        "bgcolor": "#000000",
+        "fontcolor": "#F1B82D",
+        "name": "Missouri"
+    },
+    "University of Nebraska-Lincoln": {
+        "bgcolor": "#D00000",
+        "fontcolor": "#FEFDFA",
+        "name": "Nebraska"
+    },
+    "University of Nevada, Las Vegas": {
+        "bgcolor": "#B10202",
+        "fontcolor": "#666666",
+        "name": "UNLV"
+    },
+    "University of Nevada, Reno": {
+        "bgcolor": "#043464",
+        "fontcolor": "#7F7777",
+        "name": "Nevada"
+    },
+    "University of North Carolina at Chapel Hill": {
+        "bgcolor": "#7DB0D2",
+        "fontcolor": "#FFFFFF",
+        "name": "North Carolina"
+    },
+    "University of North Carolina at Wilmington": {
+        "bgcolor": "#FFFFFF",
+        "fontcolor": "#000000",
+        "name": "UNC Wilmington"
+    },
+    "University of Northern Iowa": {
+        "bgcolor": "#4B116F",
+        "fontcolor": "#FFCC00",
+        "name": "Northern Iowa"
+    },
+    "University of Notre Dame": {
+        "bgcolor": "#0D243F",
+        "fontcolor": "#CB9523",
+        "name": "Notre Dame"
+    },
+    "University of Oklahoma": {
+        "bgcolor": "#841617",
+        "fontcolor": "#FDF9D8",
+        "name": "Oklahoma"
+    },
+    "University of Oregon": {
+        "bgcolor": "#154733",
+        "fontcolor": "#FEE123",
+        "name": "Oregon"
+    },
+    "University of Pittsburgh": {
+        "bgcolor": "#1c2957",
+        "fontcolor": "#cdb87d",
+        "name": "Pitt"
+    },
+    "University of Rhode Island": {
+        "bgcolor": "#002147",
+        "fontcolor": "#d0a627",
+        "name": "Rhode Island"
+    },
+    "University of San Diego": {
+        "bgcolor": "#FFFFFF",
+        "fontcolor": "#000000",
+        "name": "San Diego"
+    },
+    "University of San Francisco": {
+        "bgcolor": "#FFFFFF",
+        "fontcolor": "#000000",
+        "name": "San Francisco"
+    },
+    "University of South Alabama": {
+        "bgcolor": "#00205B",
+        "fontcolor": "#BF0D3E",
+        "name": "South Alabama"
+    },
+    "University of South Carolina": {
+        "bgcolor": "#73000A",
+        "fontcolor": "#FFFFFF",
+        "name": "South Carolina"
+    },
+    "University of Southern California": {
+        "bgcolor": "#97040C",
+        "fontcolor": "#FCC92E",
+        "name": "USC"
+    },
+    "University of Tennessee": {
+        "bgcolor": "#FF8200",
+        "fontcolor": "#FFFFFF",
+        "name": "Tennessee"
+    },
+    "University of Tennessee at Chattanooga": {
+        "bgcolor": "#FFFFFF",
+        "fontcolor": "#000000",
+        "name": "Tenn. Chattanooga"
+    },
+    "University of Texas at Arlington": {
+        "bgcolor": "#FFFFFF",
+        "fontcolor": "#000000",
+        "name": "UT Arlington"
+    },
+    "University of Texas at Austin": {
+        "bgcolor": "#BF5700",
+        "fontcolor": "#FFFFFF",
+        "name": "Texas"
+    },
+    "University of Texas at El Paso": {
+        "bgcolor": "#FFFFFF",
+        "fontcolor": "#000000",
+        "name": "UTEP"
+    },
+    "University of Tulsa": {
+        "bgcolor": "#002d72",
+        "fontcolor": "#c5b783",
+        "name": "Tulsa"
+    },
+    "University of Utah": {
+        "bgcolor": "#CC0000",
+        "fontcolor": "#808080",
+        "name": "Utah"
+    },
+    "University of Vermont": {
+        "bgcolor": "#007155",
+        "fontcolor": "#B2D23E",
+        "name": "Vermont"
+    },
+    "University of Virginia": {
+        "bgcolor": "#F3993B",
+        "fontcolor": "#233366",
+        "name": "Virginia"
+    },
+    "University of Washington": {
+        "bgcolor": "#4b2e83",
+        "fontcolor": "#b7a57a",
+        "name": "Washington"
+    },
+    "University of Wisconsin-Green Bay": {
+        "bgcolor": "#FFFFFF",
+        "fontcolor": "#000000",
+        "name": "Wisc. Green Bay"
+    },
+    "University of Wisconsin-Madison": {
+        "bgcolor": "#C5050C",
+        "fontcolor": "#FFFFFF",
+        "name": "Wisconsin"
+    },
+    "University of Wyoming": {
+        "bgcolor": "#ffc425",
+        "fontcolor": "#492F24",
+        "name": "Wyoming"
+    },
+    "Valparaiso University": {
+        "bgcolor": "#381e0e",
+        "fontcolor": "#a58329",
+        "name": "Valparaiso"
+    },
+    "Vanderbilt University": {
+        "bgcolor": "#000000",
+        "fontcolor": "#866D4B",
+        "name": "Vanderbilt"
+    },
+    "Villanova University": {
+        "bgcolor": "#022159",
+        "fontcolor": "#FFFFFF",
+        "name": "Villanova"
+    },
+    "Virginia Commonwealth University": {
+        "bgcolor": "#000000",
+        "fontcolor": "#FFB300",
+        "name": "VCU"
+    },
+    "Virginia Polytechnic Institute and State University": {
+        "bgcolor": "#8A1E41",
+        "fontcolor": "#EE7623",
+        "name": "Virginia Tech"
+    },
+    "Wake Forest University": {
+        "bgcolor": "#FFFFFF",
+        "fontcolor": "#000000",
+        "name": "Wake Forest"
+    },
+    "Washington State University": {
+        "bgcolor": "#981E32",
+        "fontcolor": "#5E6A71",
+        "name": "Washington St"
+    },
+    "West Virginia University": {
+        "bgcolor": "#032954",
+        "fontcolor": "#E5A530",
+        "name": "West Virginia"
+    },
+    "Western Illinois University": {
+        "bgcolor": "#663399",
+        "fontcolor": "#ffcc00",
+        "name": "Western Illinois"
+    },
+    "Western Kentucky University": {
+        "bgcolor": "#B01E24",
+        "fontcolor": "#FFFFFF",
+        "name": "Western Kentucky"
+    },
+    "Wichita State University": {
+        "bgcolor": "#000000",
+        "fontcolor": "FFE53F",
+        "name": "Wichita St"
+    },
+    "Xavier University": {
+        "bgcolor": "#02254C",
+        "fontcolor": "#A6A499",
+        "name": "Xavier"
+    },
+    "Yale University": {
+        "bgcolor": "#00356b",
+        "fontcolor": "#63aaff",
+        "name": "Yale"
+    }
+}
